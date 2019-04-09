@@ -2,4 +2,5 @@
 
 mvn gitflow:release-finish \
     -B \
-    -DskipTests
+    -DskipTests \
+    -DpostReleaseGoals=install
