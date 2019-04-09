@@ -3,4 +3,4 @@
 mvn gitflow:release-finish \
     -B \
     -DskipTests \
-    -DpostReleaseGoals=install
+    -DpostReleaseGoals="install -DskipTests"
