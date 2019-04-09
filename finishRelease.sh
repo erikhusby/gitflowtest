@@ -2,5 +2,4 @@
 
 mvn gitflow:release-finish \
     -B \
-    -DskipTests \
-    -DuseSnapshotInRelease=false
+    -DskipTests
