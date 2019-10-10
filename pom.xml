@@ -8,6 +8,8 @@
   <artifactId>releng</artifactId>
   <version>1.2.7-SNAPSHOT</version>
 
+  <!-- Develop version - that is modified after release branch created -->
+
   <name>releng</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
