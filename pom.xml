@@ -8,11 +8,11 @@
   <artifactId>releng</artifactId>
   <version>1.4-SNAPSHOT</version>
 
-  <!-- Release version - that is modified after release branch created -->
-
   <name>releng</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+
+  <!-- Develop version - that is modified after release branch created -->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
