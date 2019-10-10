@@ -6,7 +6,7 @@
 
   <groupId>broadinstitute.org</groupId>
   <artifactId>releng</artifactId>
-  <version>1.3</version>
+  <version>1.3.1-SNAPSHOT</version>
 
   <!-- Release version - that is modified after release branch created -->
 
