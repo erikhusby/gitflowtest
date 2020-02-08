@@ -6,7 +6,7 @@
 
   <groupId>broadinstitute.org</groupId>
   <artifactId>releng</artifactId>
-  <version>1.797-SNAPSHOT</version>
+  <version>1.798-SNAPSHOT</version>
 
   <name>releng</name>
   <!-- FIXME change it to the project's website -->
